@@ -1,44 +1,82 @@
-# Hi, I'm Alireza Mousapour Ahmadi 👋
+<div align="center">
+  <img src="./profile-banner.svg" alt="Alireza Mousapour Ahmadi — Full-Stack Developer" width="100%" />
 
-**Full-Stack Developer | Web Applications & APIs**
+  <p><strong>Building thoughtful interfaces, practical APIs, and useful software.</strong></p>
 
-I'm a software developer based in **Babolsar, Mazandaran, Iran**, with a bachelor's degree from **Babol Noshirvani University of Technology**.
+  <a href="https://www.linkedin.com/in/alireza-mousapour-758b2926b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-101722?style=for-the-badge&logo=linkedin&logoColor=72D5C5" /></a>
+  <a href="mailto:alirezamoosapour7777@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hello-101722?style=for-the-badge&logo=gmail&logoColor=72D5C5" /></a>
+  <a href="https://t.me/alrzw_mp"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Message%20Me-101722?style=for-the-badge&logo=telegram&logoColor=72D5C5" /></a>
+</div>
 
-I enjoy building practical software, from responsive user interfaces to backend APIs and databases. My main focus is **full-stack web development**, and I'm also interested in **software engineering and artificial intelligence**.
+## About Me
 
-## 🛠️ Technologies I've worked with
+I'm a **full-stack developer** based in **Babolsar, Mazandaran, Iran**, with a bachelor's degree from **Babol Noshirvani University of Technology**.
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Vue.js, Tailwind CSS, jQuery
-- **Backend:** Python, FastAPI, PHP, Java
-- **Databases & tools:** PostgreSQL, SQLAlchemy, Git, GitHub, Vite
-- **Other experience:** React Native, mobile applications, and Telegram bots (not currently featured in public repositories)
+I enjoy building software across the stack—from responsive user interfaces to backend APIs and databases. My main focus is **web development**, and I'm also interested in **software engineering and AI**. I've additionally worked on mobile applications and Telegram bots.
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🔗 Shortify — URL Shortener
-A full-stack URL-shortening project with a **Persian RTL dashboard** and a separate REST API. The frontend includes link-management and analytics interfaces; the backend handles authentication, link operations, and click analytics. **Some frontend interactions still use mock data, and complete frontend–backend integration is not claimed.**
+**Frontend**
 
-- **Frontend:** React, TypeScript, Vite, Tailwind CSS, Recharts — [View repository](https://github.com/AlirezaMP2003/Shortify-Frontend)
-- **Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic — [View repository](https://github.com/AlirezaMP2003/Shortify-Backend)
+[![Frontend skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,jquery&theme=dark)](https://skillicons.dev)
 
-### 🧩 PersianMock — Iranian Synthetic Data Generator
-A full-stack portfolio MVP for generating customizable synthetic Persian/Iranian sample data. Build a schema, preview generated records, and export data in **JSON, CSV, SQL, or Excel** formats. Features include a Vue-based field builder and a FastAPI generation service.
+**Backend & Languages**
 
-- **Frontend:** Vue 3, Vite, Tailwind CSS, Axios — [View repository](https://github.com/AlirezaMP2003/PersianMock-Frontend)
-- **Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic — [View repository](https://github.com/AlirezaMP2003/PersianMock_Backend)
+[![Backend skills](https://skillicons.dev/icons?i=python,fastapi,php,java&theme=dark)](https://skillicons.dev)
 
-## 📂 Other Projects
+**Database & Tools**
 
-- [Othello Game](https://github.com/AlirezaMP2003/Othello-game) — Browser-based two-player Reversi game built with HTML, CSS, and JavaScript.
-- [Restaurant Management System](https://github.com/AlirezaMP2003/Restaurant) — Console-based restaurant ordering and management application in C++.
+[![Database and tools](https://skillicons.dev/icons?i=postgres,git,github,vite&theme=dark)](https://skillicons.dev)
 
-## 📬 Connect
+`SQLAlchemy` · `Alembic` · `Pydantic` · `React Native`
 
-- **Email:** [alirezamoosapour7777@gmail.com](mailto:alirezamoosapour7777@gmail.com)
-- **Telegram:** [@alrzw_mp](https://t.me/alrzw_mp)
-- **Instagram:** [@alrzw.mp](https://www.instagram.com/alrzw.mp/)
-- **LinkedIn:** [Alireza Mousapour](https://www.linkedin.com/in/alireza-mousapour-758b2926b/)
+## Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*Interested in building useful software and continuing to grow as a full-stack developer.*
+### 🔗 Shortify
+**URL Shortener & Analytics**
+
+A URL-shortening project with a Persian RTL dashboard, link-management screens, analytics UI, and a separate FastAPI backend for authentication, links, and click analytics.
+
+**Stack:** React · TypeScript · Tailwind CSS · FastAPI · PostgreSQL
+
+[**Frontend ↗**](https://github.com/AlirezaMP2003/Shortify-Frontend) &nbsp;|&nbsp; [**Backend ↗**](https://github.com/AlirezaMP2003/Shortify-Backend)
+
+<sub>Portfolio project · Some frontend interactions currently use mock data; full integration is not claimed.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 PersianMock
+**Persian Synthetic Data Generator**
+
+A customizable Iranian sample-data generator with a schema builder, record preview, and JSON, CSV, SQL, and Excel export options.
+
+**Stack:** Vue 3 · Tailwind CSS · FastAPI · PostgreSQL · Pydantic
+
+[**Frontend ↗**](https://github.com/AlirezaMP2003/PersianMock-Frontend) &nbsp;|&nbsp; [**Backend ↗**](https://github.com/AlirezaMP2003/PersianMock_Backend)
+
+<sub>Portfolio MVP · Not presented as a production service.</sub>
+
+</td>
+</tr>
+</table>
+
+## More Projects
+
+| Project | Description | Tech |
+|:---|:---|:---|
+| [**Othello Game ↗**](https://github.com/AlirezaMP2003/Othello-game) | Browser-based two-player Reversi game | HTML, CSS, JavaScript |
+| [**Restaurant Management ↗**](https://github.com/AlirezaMP2003/Restaurant) | Console-based restaurant ordering and management system | C++ |
+
+## Let's Connect
+
+I'm interested in building useful software and growing as a full-stack developer. Feel free to reach out or explore my repositories.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-101722?style=flat-square&logo=linkedin&logoColor=72D5C5)](https://www.linkedin.com/in/alireza-mousapour-758b2926b/)
+[![Email](https://img.shields.io/badge/Email-101722?style=flat-square&logo=gmail&logoColor=72D5C5)](mailto:alirezamoosapour7777@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-101722?style=flat-square&logo=telegram&logoColor=72D5C5)](https://t.me/alrzw_mp)
+[![Instagram](https://img.shields.io/badge/Instagram-101722?style=flat-square&logo=instagram&logoColor=72D5C5)](https://www.instagram.com/alrzw.mp/)
