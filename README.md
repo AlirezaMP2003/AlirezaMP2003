@@ -3,7 +3,7 @@
 
   <p><strong>Building thoughtful interfaces, practical APIs, and useful software.</strong></p>
 
-  <a href="https://www.linkedin.com/in/alireza-mousapour-758b2926b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-101722?style=for-the-badge&logo=linkedin&logoColor=72D5C5" /></a>
+  <a href="https://www.linkedin.com/in/alireza-mousapour-ahmadi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-101722?style=for-the-badge&logo=linkedin&logoColor=72D5C5" /></a>
   <a href="mailto:alirezamoosapour7777@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hello-101722?style=for-the-badge&logo=gmail&logoColor=72D5C5" /></a>
   <a href="https://t.me/alrzw_mp"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Message%20Me-101722?style=for-the-badge&logo=telegram&logoColor=72D5C5" /></a>
 </div>
@@ -18,7 +18,7 @@ I enjoy building software across the stack—from responsive user interfaces to 
 
 **Frontend**
 
-[![Frontend skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,jquery&theme=dark)](https://skillicons.dev)
+[![Frontend skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,tailwind,jquery&theme=dark)](https://skillicons.dev)
 
 **Backend & Languages**
 
@@ -76,7 +76,7 @@ A customizable Iranian sample-data generator with a schema builder, record previ
 
 I'm interested in building useful software and growing as a full-stack developer. Feel free to reach out or explore my repositories.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-101722?style=flat-square&logo=linkedin&logoColor=72D5C5)](https://www.linkedin.com/in/alireza-mousapour-758b2926b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-101722?style=flat-square&logo=linkedin&logoColor=72D5C5)](https://www.linkedin.com/in/alireza-mousapour-ahmadi/)
 [![Email](https://img.shields.io/badge/Email-101722?style=flat-square&logo=gmail&logoColor=72D5C5)](mailto:alirezamoosapour7777@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-101722?style=flat-square&logo=telegram&logoColor=72D5C5)](https://t.me/alrzw_mp)
 [![Instagram](https://img.shields.io/badge/Instagram-101722?style=flat-square&logo=instagram&logoColor=72D5C5)](https://www.instagram.com/alrzw.mp/)
