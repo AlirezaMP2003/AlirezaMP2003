@@ -18,7 +18,7 @@ I enjoy building software across the stack—from responsive user interfaces to 
 
 **Frontend**
 
-[![Frontend skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,tailwind,jquery&theme=dark)](https://skillicons.dev)
+[![Frontend skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,jquery&theme=dark)](https://skillicons.dev)
 
 **Backend & Languages**
 
