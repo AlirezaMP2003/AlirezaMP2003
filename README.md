@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a **full-stack developer** based in **Babolsar, Mazandaran, Iran**, with a bachelor's degree from **Babol Noshirvani University of Technology**.
+I'm a **full-stack developer** based in **Babolsar, Mazandaran, Iran**, with a bachelor's degree from **Babol Noshirvani University of Technology (BNUT)**, Currently pursuing an M.Sc. in Computer Engineering (Software Engineering) at **Iran University of Science and Technology (IUST)**.
 
 I enjoy building software across the stack—from responsive user interfaces to backend APIs and databases. My main focus is **web development**, and I'm also interested in **software engineering and AI**. I've additionally worked on mobile applications and Telegram bots.
 
